@@ -1,7 +1,4 @@
-#demo
+#Richie Acevedo's Portfolio
 
-very important description!
+Welcome to my portfolio page. You can find some of my projects and ways to contact me.
 
-##subheader
-
-some more text.

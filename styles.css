@@ -408,8 +408,21 @@ section.work .projects .project .action a {
 
 section.work .projects .project .action a:hover {
   text-decoration: underline;
+  color: var(--color-white);
 }
 
+.project {
+   padding: 1rem;
+}
+
+.gitbtn {
+  background:var(--color-primary);
+  padding: 1rem;
+}
+
+span {
+  color: var(--color-white);
+}
 
 
 
